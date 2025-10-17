@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Taller\\repos\\2025\\db\\db.csproj": {}
+    "D:\\08 - Tllar 2-semana01- 03\\2025\\05-semana05\\practica\\tl2-tp6-2025-cesarjosegodoy\\db.csproj": {}
   },
   "projects": {
-    "D:\\Taller\\repos\\2025\\db\\db.csproj": {
+    "D:\\08 - Tllar 2-semana01- 03\\2025\\05-semana05\\practica\\tl2-tp6-2025-cesarjosegodoy\\db.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Taller\\repos\\2025\\db\\db.csproj",
+        "projectUniqueName": "D:\\08 - Tllar 2-semana01- 03\\2025\\05-semana05\\practica\\tl2-tp6-2025-cesarjosegodoy\\db.csproj",
         "projectName": "db",
-        "projectPath": "D:\\Taller\\repos\\2025\\db\\db.csproj",
-        "packagesPath": "C:\\Users\\queco\\.nuget\\packages\\",
-        "outputPath": "D:\\Taller\\repos\\2025\\db\\obj\\",
+        "projectPath": "D:\\08 - Tllar 2-semana01- 03\\2025\\05-semana05\\practica\\tl2-tp6-2025-cesarjosegodoy\\db.csproj",
+        "packagesPath": "C:\\Users\\Agluma\\.nuget\\packages\\",
+        "outputPath": "D:\\08 - Tllar 2-semana01- 03\\2025\\05-semana05\\practica\\tl2-tp6-2025-cesarjosegodoy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\queco\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\Agluma\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net9.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -67,7 +65,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.302/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.305/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
